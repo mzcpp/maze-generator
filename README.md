@@ -21,7 +21,7 @@ Controls:
 
 Compiled with provided Makefile.
 
-Great source for mazes algorithms is [Mazes for Programmers: Code Your Own Twisty Little Passages by Jamis Buck.](http://www.mazesforprogrammers.com)
+Great source for maze generation algorithms is [Mazes for Programmers: Code Your Own Twisty Little Passages by Jamis Buck.](http://www.mazesforprogrammers.com)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWN5bHl1NThxdWM4NmQ1c3ZyZjI2d25sZ2xtYTAxcGc0cXFicmU3ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AF6ypzxCnTh5b1Cs1W/giphy.gif" alt="animated" />
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTFkZGJja3lqajZseTVxOGs2ajlrNDE2NGR0c2VvcmZydDBzOTd5ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0cDkakEPtktqeaKz9P/giphy.gif" alt="animated" />
