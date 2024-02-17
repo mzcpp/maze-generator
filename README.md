@@ -1,5 +1,5 @@
-# mazes-generator
-Mazes generator with visualisation written using SDL2 library.
+# maze-generator
+Maze generator with visualisation written using SDL2 library.
 
 Program to generate and visualize mazes using various algorithms.
 In addition, algorithm for shortest path between two cells is implemented, also with visualisation.
