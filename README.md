@@ -14,7 +14,7 @@ Controls:
   - MOUSE MOUSE CLICK to set end cell
   - UP ARROW to increase cell size
   - DOWN ARROW to decrease cell size
-  - Hold Left SHIFT + Left MOUSE BUTTON to carve custom mazes - not allowing creation of cycles
+  - Hold Left SHIFT + Left MOUSE BUTTON to carve custom mazes (creation of cycles is prevented)
   - 'a' to generate longest possible path in maze. (Maze must be 'perfect' - there exists exactly 1 path between any pair of cells)
   - 'r' to reset board.
   - 't' or 'y' to generate 5000 of mazes with each of the 5 algorithms and check for each if it contains a cycle - if the maze is 'perfect'. 't' option is implemented using extremely simple multithreading, 'y' option is single thread. Multi threaded option is about 25% faster. Times reported in output.
